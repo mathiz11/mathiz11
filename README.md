@@ -8,7 +8,7 @@
 
 💞️ I’m looking to collaborate on everything that motivates me
 
-📝 If you are interested, do not hesitate to contact me by email at mathis.enjolras11@gmail.com or directly on Linkedin https://www.linkedin.com/in/mathis-enjolras-3a1933172/
+📝 If you are interested, do not hesitate to contact me by email at mathis.enjolras11@gmail.com
 <!--
 **mathiz11/mathiz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
