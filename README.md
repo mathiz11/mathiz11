@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Spring Boot / Angular applications.
+🔭 I’m currently working on Vue 2 / Express applications.
 
 👀 I’m interested in Web application / Technology watch / Automation ...
 
-🌱 I’m currently learning React / React Native / Express.
+🌱 I’m currently learning Vue 3 / Express / TypeScript.
 
 💞️ I’m looking to collaborate on everything that motivates me
 
