@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Vue 2 / Express applications.
+🔭 I’m currently working on VueJS 2 / ExpressJS application.
 
 👀 I’m interested in Web application / Technology watch / Automation ...
 
