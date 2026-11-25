@@ -1,25 +1,16 @@
-### Hi there 👋
+# Hi, I'm Mathis 👋
 
-🔭 I’m currently working on VueJS 2 / ExpressJS application.
+Full-stack software engineer based in Lyon, France. I build apps and tools for logistics.
 
-👀 I’m interested in Web application / Technology watch / Automation ...
+**Stack**: TypeScript · Vue.js · Nuxt · NestJS · Express · OpenShift
 
-🌱 I’m currently learning Vue 3 / Express / TypeScript.
+### Projects
+- [**rally-tools**](https://github.com/mathiz11/rally-tools): calculators for rally support crews (fuel, wheel speed, volumetric ratio) · [website](https://rally-tools.vercel.app/)
+- [**À portée de train**](https://aporteedetrain.fr/): low-carbon travel blog · Nuxt, Supabase
 
-💞️ I’m looking to collaborate on everything that motivates me
+### Background
+- **2022 – present** · Full-stack software engineer at an IT consulting firm, logistics sector
+- **2019 – 2022** · IMT Mines Alès, engineering degree (work-study) · Angular, Spring, Gatsby
+- **2017 – 2019** · Two-year IT degree (IUT), Arles
 
-📝 If you are interested, do not hesitate to contact me by email at mathis.enjolras11@gmail.com
-<!--
-**mathiz11/mathiz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 [Portfolio](https://portfolio-zeta-nine-3wpvan0ghg.vercel.app/)
